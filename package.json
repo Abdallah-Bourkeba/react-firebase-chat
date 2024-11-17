@@ -1,4 +1,5 @@
 {
+  "proxy": "http://localhost:3000",
   "name": "chat-starter",
   "private": true,
   "version": "0.0.0",
@@ -10,8 +11,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "emoji-picker-react": "^4.12.0",
+    "firebase": "^11.0.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-toastify": "^10.0.6",
+    "timeago.js": "^4.0.0-beta.3",
+    "zustand": "^5.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
