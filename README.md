@@ -26,7 +26,7 @@ React Firebase Chat is a real-time chat application that leverages the power of 
 
 ## Demo
 
-You can see a live demo of the application [here](#).
+You can see a live demo of the application [here](https://bourkeba-chat.netlify.app/).
 
 ## Installation
 
